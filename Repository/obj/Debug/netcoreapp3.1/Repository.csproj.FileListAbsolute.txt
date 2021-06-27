@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\hp\source\repos\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\hp\source\repos\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\hp\source\repos\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\hp\source\repos\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\hp\source\repos\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\hp\source\repos\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\hp\source\repos\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\hp\source\repos\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\hp\source\repos\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\hp\source\repos\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\hp\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
